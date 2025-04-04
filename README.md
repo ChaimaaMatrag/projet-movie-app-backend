@@ -28,3 +28,10 @@ cd show-app-backend
 node index.js
 ```
 ## 📁 Structure du projet
+
+📁 movie_app
+
+📁 show-app-backend
+
+📄 README.md
+
