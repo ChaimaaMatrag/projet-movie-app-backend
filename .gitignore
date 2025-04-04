@@ -1,3 +1,5 @@
 node_modules/ 
 .env 
 uploads/ 
+movie_app/ 
+show-app-backend/ 
