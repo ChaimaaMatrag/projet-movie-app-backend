@@ -1,16 +1,30 @@
-# movie_app
+# 🎬 Movie App
 
-A new Flutter project.
+Cette application mobile permet de consulter une liste de films avec leurs détails (titre, description, etc).
 
-## Getting Started
+## 📱 Technologies utilisées
 
-This project is a starting point for a Flutter application.
+- Flutter (Front-end)
+- Node.js / Express (Back-end)
+- Postman (Tests API)
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Affichage d’une liste de films
+- Détails d’un film
+- Ajout / Modification / Suppression de films
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Lancement du projet
+
+### Frontend (Flutter)
+```bash
+cd movie_app
+flutter pub get
+flutter run
+```
+### Backend (Node.js)
+```bash
+cd show-app-backend
+node index.js
+```
+## 📁 Structure du projet
